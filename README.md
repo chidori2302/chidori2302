@@ -1,8 +1,8 @@
 ### Hi there, I'm Chí Dũng 👋
 # 💫About Me :
-🔭 I’m currently working on a Vs code
-🌱 I’m currently learning everything 🤣
-⚡ Fun fact: I love to watch anime and photography
+- 🔭 I’m currently working on a Vs code
+- 🌱 I’m currently learning everything 🤣
+- ⚡ Fun fact: I love to watch anime and photography
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/chidung3M/) 
