@@ -1,6 +1,6 @@
 ### Hi there, I'm Chí Dũng 👋
 # 💫About Me :
-- 🔭 I’m currently working on a Vs code
+- 🔭 I’m currently coding PHP
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to watch anime and photography
 
